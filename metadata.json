@@ -1,0 +1,6 @@
+{
+  "name": "Nozzle Shield Pro Guide",
+  "description": "An interactive, high-fidelity step-by-step coating guide for MATE LAB Nozzle Shield Pro with bilingual support and active timers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
